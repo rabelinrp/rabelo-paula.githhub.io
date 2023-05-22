@@ -1,0 +1,12 @@
+{
+  "name": "Alleged Jar (Shootalia top down shooter)",
+  "short_name": "Alleged Jar (Shootalia top down shooter)",
+  "id": "com.example.shootalia",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
